@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+#header {
+    background-color: rgba(21, 218, 47, 0.705);
+    padding: 10px 5px;
+    border-style: solid;
+}
+
+#navbar {
+    background-color: rgb(209, 236, 209);
+    border-style: solid;
+    padding: 5px 5px;
+}
+
+#h3 {
+    background-image: url(https://img.freepik.com/premium-photo/close-up-potted-plant-table_1048944-26309381.jpg?semt=ais_hybrid&w=740&q=80);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+    border: solid;
+    padding: 40px 5px;
+    text-align: center;
+}
+
+
+#content {
+    background-color: rgb(160, 238, 190);
+    padding: 20px 5px;
+}
+
+#con2 {
+    margin-top: 20px ;
+}
+
+#con3 {
+    margin-top: 20px;
+}
+
+#year {
+    border-top: 1px solid rgb(12, 11, 11);
+    border-bottom: 1px solid rgb(12, 11, 11);
+    background-color: rgb(57, 216, 216);
+    padding-left: 8px;
+    margin: 20px 0;
+}
